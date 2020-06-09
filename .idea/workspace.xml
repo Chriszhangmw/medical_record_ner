@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2046df6-a8ba-4ef7-b0ae-fd7ebbec2852" name="Default Changelist" comment="" />
+    <list default="true" id="d2046df6-a8ba-4ef7-b0ae-fd7ebbec2852" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/china_daily_train/baseline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/china_daily_train/mrc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/china_daily_train/mrc_query_mapping.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/china_daily_train/seq2seq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/train_electra_all_label.py" beforeDir="false" afterPath="$PROJECT_DIR$/train/train_electra_all_label.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +23,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1chkqbf7emsfuLJcvAf0TODLka4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../medical_record_correction" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,11 +57,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590988403264</updated>
-      <workItem from="1590988404781" duration="13289000" />
+      <workItem from="1590988404781" duration="13632000" />
+      <workItem from="1591058699110" duration="12753000" />
+      <workItem from="1591578275869" duration="13214000" />
+      <workItem from="1591663183362" duration="4490000" />
     </task>
+    <task id="LOCAL-00001" summary="electra">
+      <created>1591064452549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591064452549</updated>
+    </task>
+    <task id="LOCAL-00002" summary="data process">
+      <created>1591068373514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591068373514</updated>
+    </task>
+    <task id="LOCAL-00003" summary="data process2">
+      <created>1591075066860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591075066860</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="electra" />
+    <MESSAGE value="data process" />
+    <MESSAGE value="data process2" />
+    <option name="LAST_COMMIT_MESSAGE" value="data process2" />
   </component>
 </project>

@@ -293,7 +293,10 @@ class test_sentence():
 
 
 
-
+if __name__ == "__main__":
+    #train()
+    test = test_sentence()
+    print(test.predict("现病史：患者半月前无明显诱因出现胸闷，气喘不适，休息后可自行缓解，伴恶心，呕吐不适"))
 
 
 
