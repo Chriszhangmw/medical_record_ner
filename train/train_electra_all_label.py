@@ -289,7 +289,10 @@ class test_sentence():
 
 
 
-
+if __name__ == "__main__":
+  #train()
+  test = test_sentence()
+  print(test.predict("现病史：患者半年前出现胸闷气短，咳嗽，后来去省人民医院为新冠肺炎"))
 
 
 
