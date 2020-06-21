@@ -1,6 +1,3 @@
-
-
-
 import os
 import numpy as np
 from bert4keras.backend import keras,K
